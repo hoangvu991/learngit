@@ -23,3 +23,9 @@ create new branch : git checkout -b {name_branch}
 -git branch -d {name_branch}
 
 -git clone
+
+- get from remote to local
+
+- git fetch origin 
+
+- git checkout -b {name_branch} origin/{name_branch}
