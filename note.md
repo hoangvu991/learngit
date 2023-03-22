@@ -21,3 +21,5 @@ create new branch : git checkout -b {name_branch}
 -git merge
 
 -git branch -d {name_branch}
+
+-git clone
